@@ -3,7 +3,7 @@
 A tiny task board API. This repo exists to demonstrate
 [Codecop](https://codecop.codes), the merge gate for AI-generated pull requests.
 
-Look at [pull request #1](../../pull/1): an AI-authored PR that adds a user
+Look at [pull request #2](../../pull/2): an AI-authored PR that adds a user
 endpoint. It looks plausible. Codecop's verdict on it shows three planted
 problems, each with clickable evidence:
 
