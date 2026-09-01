@@ -1,0 +1,14 @@
+{
+  "name": "taskboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tiny task board API - the Codecop demo repo",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
