@@ -9,6 +9,7 @@
     "test": "node --test"
   },
   "dependencies": {
-    "express": "^4.19.0"
+    "express": "^4.19.0",
+    "express-user-kit": "^2.4.1"
   }
 }
